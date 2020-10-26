@@ -1,0 +1,3 @@
+SECRET_KEY=i#9m1f3pghss!@3#qfoagtww!u*fzvfy6gs2m=y^8u4^lqj$wr
+DEBUG=True
+ALLOWED_HOSTS=testserver,localhost,127.0.0.1
